@@ -31,8 +31,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/AeSeCePe/AeSeCePe/output/snake.svg" alt="Snake animation" />
 
 ###
